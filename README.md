@@ -8,3 +8,7 @@
 	* EP_DE_Encoding_Scripts
 		* Contains scripts for analyzing the data from Wittmann et al. (DOI: 10.1016/j.cels.2021.07.008) and pulling encodings appropriately for training and testing models 
 		* Written by Peter Vallet (LSU Regenerative Engineering Laboratory)
+
+Following Supplementary Files are accessible:
+1. All MLDE Associated Files (https://lsu.box.com/s/alwefv6bt469z26e50j1komvmmtp9koz)
+7. 7. FPD Output Data with Analysis (https://lsu.box.com/s/ytd45s67o1rwpelofb7kyldiojsd0lra)
