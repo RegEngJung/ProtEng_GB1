@@ -10,5 +10,5 @@
 		* Written by Peter Vallet (LSU Regenerative Engineering Laboratory)
 
 Following Supplementary Files are accessible (https://lsu.box.com/s/co98vz8qni9wfb583i0okbx8gkh6tfeh):
-S1. All MLDE Associated Files
-S7. FPD Output Data with Analysis
+* S1. All MLDE Associated Files
+* S7. FPD Output Data with Analysis
