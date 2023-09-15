@@ -1,4 +1,4 @@
-# Structure-informed MLDE for GB1
+# Structure-informed MLDE for GB1 Supplementary Files
 - Code contains all scripts
 	* HPC 
 		* Contains working scripts to run zero-shot on LSU HPC
@@ -9,6 +9,6 @@
 		* Contains scripts for analyzing the data from Wittmann et al. (DOI: 10.1016/j.cels.2021.07.008) and pulling encodings appropriately for training and testing models 
 		* Written by Peter Vallet (LSU Regenerative Engineering Laboratory)
 
-Following Supplementary Files are accessible (https://lsu.box.com/s/co98vz8qni9wfb583i0okbx8gkh6tfeh):
+Further Supplementary Files are accessible (https://lsu.box.com/s/co98vz8qni9wfb583i0okbx8gkh6tfeh):
 * S1. All MLDE Associated Files
 * S7. FPD Output Data with Analysis
