@@ -1,4 +1,4 @@
-# Structure-informed MLDE for GB1 Supplementary Files
+# Supplementary Files of Structure-informed MLDE for GB1 
 - Code contains all scripts
 	* HPC 
 		* Contains working scripts to run zero-shot on LSU HPC
