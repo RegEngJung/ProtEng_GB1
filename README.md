@@ -1,14 +1,16 @@
-# Supplementary Files of Structure-informed MLDE for GB1 
-- Code contains all scripts
-	* HPC 
-		* Contains working scripts to run zero-shot on LSU HPC
-		* Contains unworking/untested scripts for glycanDock use on LSU HPC 
-		* Contains original working scripts for FlexPepDock
-		* Adapted and written by Peter Vallet (LSU Regenerative Engineering Laboratory - goo.gl/EUkYoT) and LSU HPC staffs
-	* EP_DE_Encoding_Scripts
-		* Contains scripts for analyzing the data from Wittmann et al. (DOI: 10.1016/j.cels.2021.07.008) and pulling encodings appropriately for training and testing models 
-		* Written by Peter Vallet (LSU Regenerative Engineering Laboratory)
-
-Further Supplementary Files are accessible (https://lsu.box.com/s/co98vz8qni9wfb583i0okbx8gkh6tfeh):
-* S1. All MLDE Associated Files
-* S7. FPD Output Data with Analysis
+# Supplementary Files for Structure-augmented MLDE for GB1 
+## This GitHub contains the following:
+ * **S2.** Scripts for all Sequence Feature Selection performed on [Terra AnVIL](https://anvil.terra.bio).  
+	* Written by [Joshua Charles Jones](https://github.com/fishnibble).
+ * **S3.** Scripts for running and submitting RMSD calculations on [LSU, HPC](https://www.hpc.lsu.edu).  
+	* Written by Jason Li, LSU HPC.
+ * **S4.** Scripts for submitting and running Rosetta FlexPepDock on [LSU, HPC](https://www.hpc.lsu.edu).  
+	* Written by Jason Li, LSU HPC and Peter Vallet, [LSU Regenerative Engineering Laboratory](https://sites.google.com/site/jangwookphilipjung/home).
+ * The MLDE Classification Model Used in our saMLDE approach.
+## Further Supplementary Files are accessible on our [Box](https://lsu.box.com/s/co98vz8qni9wfb583i0okbx8gkh6tfeh):
+* **S1.** Zero-Shot Predictor Outputs
+* **S2.** Sequence Feature Selection - Libraries
+* **S5.** FlexPepDock Output Data with Analysis
+* **S6.** Modified PDB:1FCC for FlexPepDock Simulation
+* **S7.** List of 200 Variants Used in Screening
+* **S8.** All MLDE Associated Files
