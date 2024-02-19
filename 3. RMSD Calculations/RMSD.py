@@ -1,3 +1,7 @@
+# Script designed to sequentially load .pdb files predicted from AlphaFold2, 
+# align them to a reference structure, and calculate RMSD within PyMOL. 
+# Written by Jason Li, LSU HPC. 
+
 from pymol import cmd
 import os,sys
 

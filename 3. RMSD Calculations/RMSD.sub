@@ -29,7 +29,6 @@ cd $PBS_O_WORKDIR
 ifiles=(`cd $ipath; find . -name 'ranked_0.pdb'| sed -e 's|^./||g' -e  's|/ranked_0.pdb||g'`)
 
 # Process AlphaFold results
-#need to change this lol
 parallel --workdir $PBS_O_WORKDIR -j$ppn \
          "sed -e 's|INPUT|$ipath/{}/ranked_0.pdb|g' -e 's|OUTPUT|$opath/{}.pdb|g' rmsd.pml | pymol -cpq" ::: ${ifiles[@]}
          
