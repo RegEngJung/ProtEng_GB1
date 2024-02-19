@@ -1,5 +1,6 @@
-# SCRIPT USED IN THE HPC PIPELINE TO GRAB THE DESIRED OUTPUTS OF THE ALPHAFOLD2 RUNS TO FEED DATA INTO MACHINE LEANRING MODEL
-# USED BECAUSE THE ALPHAFOLD2 PIPELINE PRODUCES MULTIPLE CSVS 
+# Script designed to pull the output variables from FlexPepDock listed under "colns" and 
+# compile them into a single Excel spreadsheet (.xlsx) file for later analysis.
+# Written by Jason Li, LSU HPC.
 import os
 import re
 import pandas as pd
