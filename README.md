@@ -7,7 +7,7 @@
  * **S4.** Scripts for submitting and running Rosetta FlexPepDock on [LSU, HPC](https://www.hpc.lsu.edu).  
 	* Written by Jason Li, LSU HPC and Peter Vallet, [LSU Regenerative Engineering Laboratory](https://sites.google.com/site/jangwookphilipjung/home).
  * The MLDE Classification Model Used in our saMLDE approach.
-## Further Supplementary Files are accessible on our [Box](https://lsu.box.com/s/co98vz8qni9wfb583i0okbx8gkh6tfeh):
+## We have also used Zenodo to assign a DOI to the repository: 10.5281/zenodo.10728846:
 * **S1.** Zero-Shot Predictor Outputs
 * **S2.** Sequence Feature Selection - Libraries
 * **S5.** FlexPepDock Output Data with Analysis
